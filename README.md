@@ -1,3 +1,3 @@
 # hongyu
 
-hello,my name is lerner.
+hello,my name is learner.
